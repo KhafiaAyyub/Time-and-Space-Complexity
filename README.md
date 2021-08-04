@@ -5,3 +5,4 @@
 - [Selection Sort](https://github.com/KhafiaAyyub/Time-and-Space-Complexity/blob/main/Selection%20Sort.java)
 - [Merge Two Sorted Array](https://github.com/KhafiaAyyub/Time-and-Space-Complexity/blob/main/Merge%20Two%20Sorted%20Arrays.java)
 - [Sort021 ](https://github.com/KhafiaAyyub/Time-and-Space-Complexity/blob/main/Sort%20012.java)
+- [Merge Sort](https://github.com/KhafiaAyyub/Time-and-Space-Complexity/blob/main/Merge%20Sort.java)
